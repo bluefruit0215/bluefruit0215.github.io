@@ -18,7 +18,7 @@ tagline:             "bluefruit0215 블로그"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  bluefruit0215의 샘플 블로그입니다.
+  캐글, 머신러닝 등에 대해 공부한 내용을 정리합니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
