@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Project
-slug: project
+title: SQL
+slug: sql
 menu: true
 submenu: true
 order: 2
 description: >
-  인공지능 프로젝트
+  SQL 공부  
 ---

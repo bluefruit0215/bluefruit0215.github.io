@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 4
 description: >
-  기타 공부
+  공부한 것들 정리
 ---
